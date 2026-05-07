@@ -59,6 +59,7 @@ transform: translateX(150px) translateY(10px) rotate(360deg);
 }
 #love_too {
   display: none;
+  height: 280px;
 }
 #why {
   display: none;
